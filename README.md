@@ -2,6 +2,7 @@
 - 👀 I’m interested in data engineering, developing on SQL databases, scripting python for data processing and machine learning, developing in C#
 - 🌱 I’m currently learning Machine learning and deep learning in python
 - 💞️ I’m looking to collaborate on local machine learning projects
+- :running_shirt_with_sash: In my free time I like running, swimming, learning German and parernting my sun
 - 📫 You can reach me via g.herpoelaert@gmail.com
 
 <!---
