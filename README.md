@@ -2,7 +2,7 @@
 - 👀 I’m interested in data engineering, developing on SQL databases, scripting python for data processing and machine learning, developing in C#
 - 🌱 I’m currently learning Machine learning and deep learning in python
 - 💞️ I’m looking to collaborate on local machine learning projects
-- 📫 You can reach me via glennherpoelaert@telenet.be
+- 📫 You can reach me via g.herpoelaert@gmail.com
 
 <!---
 herpoelg/herpoelg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
